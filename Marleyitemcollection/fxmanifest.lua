@@ -1,6 +1,6 @@
--- For support join my discord: https://discord.gg/Z9Mxu72zZ6
 
-author "Andy's Development"
+
+author "Marley"
 description "Pickup inventory item props"
 version "1.0.0"
 
